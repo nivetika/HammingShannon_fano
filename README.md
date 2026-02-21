@@ -52,9 +52,11 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+
+![WhatsApp Image 2026-02-21 at 20 09 41](https://github.com/user-attachments/assets/3caab61b-f81b-4f59-b1b4-31d07f66bd4e)
+![WhatsApp Image 2026-02-21 at 20 09 42](https://github.com/user-attachments/assets/2536c8f3-5388-493a-aea2-f303ad7fbc72)
+
+
 # Output
 <img width="430" height="320" alt="image" src="https://github.com/user-attachments/assets/3b695459-8e7e-41cc-9ea0-49d771f90635" />
 
